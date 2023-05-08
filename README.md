@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-week-6-classes-and-screens
+<br>
+<p class="ui header product-top-header" title="Week 6 Classes and Screens Solution">In this assignment, you will update your final project proposal to plan for your project, creating a design that you can use to create your code project. While this is a working document, it is understood things many change between the design and implementation.
+
+What items you will be able to create and how you will create them?Create a storyboard (graphic) and list of menu and screen items to delineate your proposed user screen(s) and menus. Include a starting list of the classes you believe will be useful to your application.Listand describe any user data inputs and outputs your application will require and produce.If you will be using data validation as one of your techniques, list and describe the criteria needed for each proposed field.Using Visual Studio,create sample classimplementations. These will be code stubs that provide the basis for the classes you will be using.Submit the revised document file and Visual Studio project to your instructor for grading.
